@@ -18,3 +18,13 @@ In the command prompt, ensure your virtual environment is active, and execute th
 6-> This will download and install the latest Django release.
 After the installation has completed, you can verify your Django installation by executing django-admin --version in the command prompt.
 
+
+Creating project django
+
+7-> inside 'project-name' directory run django-admin startproject mysite
+
+8-> go inside mysite it contains manage.py
+
+9-> run python manage.py runserver
+
+10-> django run successfully on port copy paste url in browser
